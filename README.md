@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=GuGjf723YME
 2. Run the following commands
 
 ```
-cd stock_market_react
+cd stock_market_react_native
 npm install
 npm start
 ```
