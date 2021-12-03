@@ -1,4 +1,9 @@
 # Introduction
+## Expo Cloud Project URL
+https://expo.io/@yusuk6185/n10421106IanChoi
+## Demonstration Video Link
+https://www.youtube.com/watch?v=yMPZYnghxCk&t=137s
+
 ## Local Environment
 
 1. Clone the project
