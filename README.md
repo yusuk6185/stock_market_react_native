@@ -1,7 +1,7 @@
 # Introduction
-## Expo Cloud Project URL
+### Expo Cloud Project URL
 https://expo.io/@yusuk6185/n10421106IanChoi
-## Demonstration Video Link
+### Demonstration Video Link
 https://www.youtube.com/watch?v=GuGjf723YME
 
 ## Local Environment
